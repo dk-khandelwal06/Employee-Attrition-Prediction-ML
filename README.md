@@ -1,4 +1,4 @@
-# 🤖 Employee Attrition Prediction (PRP Mini Project)
+# 🤖 Employee Attrition Prediction
 
 > 🚀 An end-to-end Machine Learning pipeline to predict employee attrition using Pattern Recognition techniques, data analysis, and visualization.
 
@@ -81,10 +81,9 @@ These results demonstrate the importance of **model generalization** and paramet
 ## 📂 Project Structure
 
 ```
-📁 Employee-Attrition-Prediction
-│── README.md
 │── Employee_Attrition_Prediction_ML_Presentation.pptx
 │── Employee_Attrition_Prediction_ML_Report.pdf
+│── README.md
 ```
 
 ---
