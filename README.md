@@ -8,8 +8,8 @@
 
 | File | Description | Format | View |
 |------|-------------|--------|------|
-| `Employee_Attrition_Prediction_ML_Report` | Full academic report with charts, analysis, and conclusions | PDF | [📄 View Report](https://drive.google.com/file/d/1QjCtQw-6YaJVuufWQGS8-UPHeBddR0CY/view?usp=sharing) |
-| `Employee_Attrition_Prediction_ML_Presentation` | Slide deck used for presentation during evaluation | PPT | [🎥 View Slides](https://docs.google.com/presentation/d/1kD92Vgziflo_qWZjkWv2Cnbe30bG3D61ShUbZOA5Y7Y/edit?usp=sharing) |
+| `Employee_Attrition_Prediction_ML_Report` | Full academic report with charts, analysis, and conclusions | PDF | [📄 View Report](https://drive.google.com/file/d/1fy0YEpkYDo3lAJjrXVi2Czo_P2WWjmHA/view?usp=drive_link) |
+| `Employee_Attrition_Prediction_ML_Presentation` | Slide deck used for presentation during evaluation | PPT | [🎥 View Slides](https://docs.google.com/presentation/d/1wyzhjs9bKaWVGJerohZaGIc7QCEDlCez/edit?usp=drive_link&ouid=109189172265058093351&rtpof=true&sd=true) |
 
 ---
 
